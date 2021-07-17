@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JarAssign</string>
+    <string name="generate_shapes">Generate shapes</string>
+    <string name="list_of_images">List of Images</string>
+</resources>
